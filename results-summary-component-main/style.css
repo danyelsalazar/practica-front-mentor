@@ -1,24 +1,24 @@
 @font-face {
   font-family: "fuenteUno";
-  src: url("/results-summary-component-main/assets/fonts/static/HankenGrotesk-Bold.ttf")
+  src: url("../results-summary-component-main/assets/fonts/static/HankenGrotesk-Bold.ttf")
     format("truetype");
 }
 
 @font-face {
   font-family: "fuenteDos";
-  src: url("/results-summary-component-main/assets/fonts/HankenGrotesk-VariableFont_wght.ttf")
+  src: url("../results-summary-component-main/assets/fonts/HankenGrotesk-VariableFont_wght.ttf")
     format("truetype");
 }
 
 @font-face {
   font-family: "fuenteTres";
-  src: url("/results-summary-component-main/assets/fonts/static/HankenGrotesk-ExtraBold.ttf")
+  src: url("../results-summary-component-main/assets/fonts/static/HankenGrotesk-ExtraBold.ttf")
     format("truetype");
 }
 
 @font-face {
   font-family: "fuenteCuatro";
-  src: url("/results-summary-component-main/assets/fonts/static/HankenGrotesk-Medium.ttf")
+  src: url("../results-summary-component-main/assets/fonts/static/HankenGrotesk-Medium.ttf")
     format("truetype");
 }
 
