@@ -162,10 +162,15 @@ body {
 
 button {
   padding: 6% 30%;
-  background-color: #303b59;
+  background-color: rgb(48, 59, 89);
   color: #fff;
   border: none;
   border-radius: 20px;
+  transition: all .4s;
+}
+
+button:hover{
+  background-color: rgba(48, 59, 89 , .5);
 }
 .circunferencia {
   background: rgb(78, 108, 224);
